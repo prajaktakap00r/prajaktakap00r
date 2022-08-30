@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @prajaktakap00r
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cpp and web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to build alot of projects.
+- 📫 How to reach me -> email-kprajakta235@gmail.com
+linkdin-https://www.linkedin.com/in/prajakta-kapoor-5b781521a/
+
 
 <!---
 prajaktakap00r/prajaktakap00r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
