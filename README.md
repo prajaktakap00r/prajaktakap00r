@@ -11,3 +11,4 @@ linkdin-https://www.linkedin.com/in/prajakta-kapoor-5b781521a/
 prajaktakap00r/prajaktakap00r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prajaktakap00r)](https://git.io/streak-stats)
