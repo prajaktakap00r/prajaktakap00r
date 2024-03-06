@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ailurophile237" target="blank"><img src="https://img.shields.io/twitter/follow/ailurophile237?logo=twitter&style=for-the-badge" alt="ailurophile237" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/prajaktakap00r/ReactNative1](https://github.com/prajaktakap00r/Portfolio)
+- 🔭 I’m currently working on [https://github.com/prajaktakap00r/Portfolio](https://github.com/prajaktakap00r/Portfolio)
 
-- 🌱 I’m currently learning **React Native,Deep Learning**
+- 🌱 I’m currently learning **WebDevelopment,Deep Learning**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available at [My Profile](https://github.com/prajaktakap00r/)
 
 - 💬 Ask me about **C++,React, Express,Machine Learning,HTML, CSS**
 
 - 📫 How to reach me **kprajakta235@gmail.com**
 
-- ⚡ Fun fact **Only I Think I a Funny**
+- ⚡ Fun fact **I Think I a Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
