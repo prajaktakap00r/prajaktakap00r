@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ailurophile237" target="blank"><img src="https://img.shields.io/twitter/follow/ailurophile237?logo=twitter&style=for-the-badge" alt="ailurophile237" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/prajaktakap00r/Innovify](https://github.com/prajaktakap00r/Innovify)
+- 🔭 I’m currently working on [https://github.com/prajaktakap00r/Portfolio](https://github.com/prajaktakap00r/Portfolio)
 
 - 🌱 I’m currently learning **WebDevelopment,Deep Learning**
 
