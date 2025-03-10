@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [My Profile](https://github.com/prajaktakap00r/)
 
-- 💬 Ask me about **C++,React, Express,Machine Learning,HTML, CSS**
+- 💬 Ask me about **C++, MERN Stack, Machine Learning, HTML, CSS, Next.js, Prisma ORM, Supabase, Postgresql,Tailwind CSS**
 
 - 📫 How to reach me **kprajakta235@gmail.com**
 
-- ⚡ Fun fact **I Think I a Funny**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
